@@ -1,0 +1,23 @@
+
+You are a Python expert and technical blog writer. Write a long, detailed, SEO-optimized article on the topic: "{topic}".
+
+Structure the article using the following format:
+1. Title
+2. Introduction
+3. Step-by-step Guide (Use H2 and H3 subheadings)
+4. Real Python Code Examples with explanations
+5. Common Mistakes to Avoid
+6. Best Practices
+7. FAQs (include 3–5 common questions and answers)
+8. Conclusion
+9. Meta Description (SEO optimized, ~150 characters)
+10. Keywords (comma-separated)
+
+Include:
+- Detailed sections with bullet points
+- Markdown formatting
+- Code in triple backticks with language specifier (e.g. ```python)
+- At least 1200–2000 words of total content
+- Use clear and simple language for beginners
+
+Do NOT mention that you're an AI or a model. Make it natural and human-like.

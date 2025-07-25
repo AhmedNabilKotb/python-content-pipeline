@@ -1,0 +1,862 @@
+{
+  "2025-07-24": [
+    {
+      "niche": "web_dev",
+      "title": "Advanced Techniques for Web Development with Python Using Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Advanced Techniques for Data Science and Analytics with Python Using Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Advanced Techniques for Machine Learning and AI using Python Using Python"
+    }
+  ],
+  "2025-07-25": [
+    {
+      "niche": "automation",
+      "title": "Advanced Techniques for Automation and Scripting in Python Using Python"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Advanced Techniques for Cybersecurity and Ethical Hacking with Python Using Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Advanced Techniques for Python for Finance and Financial Modeling Using Python"
+    }
+  ],
+  "2025-07-26": [
+    {
+      "niche": "education",
+      "title": "Advanced Techniques for Python for Education and Teaching Using Python"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Advanced Techniques for Web Scraping and Data Extraction using Python Using Python"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Automating Web Development with Python Tasks with Python"
+    }
+  ],
+  "2025-07-27": [
+    {
+      "niche": "data_science",
+      "title": "Automating Data Science and Analytics with Python Tasks with Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Automating Machine Learning and AI using Python Tasks with Python"
+    },
+    {
+      "niche": "automation",
+      "title": "Automating Automation and Scripting in Python Tasks with Python"
+    }
+  ],
+  "2025-07-28": [
+    {
+      "niche": "cybersecurity",
+      "title": "Automating Cybersecurity and Ethical Hacking with Python Tasks with Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Automating Python for Finance and Financial Modeling Tasks with Python"
+    },
+    {
+      "niche": "education",
+      "title": "Automating Python for Education and Teaching Tasks with Python"
+    }
+  ],
+  "2025-07-29": [
+    {
+      "niche": "web_scraping",
+      "title": "Automating Web Scraping and Data Extraction using Python Tasks with Python"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Beginner's Guide to Web Development with Python in Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Beginner's Guide to Data Science and Analytics with Python in Python"
+    }
+  ],
+  "2025-07-30": [
+    {
+      "niche": "ml_ai",
+      "title": "Beginner's Guide to Machine Learning and AI using Python in Python"
+    },
+    {
+      "niche": "automation",
+      "title": "Automation and Scripting in Python with Python: Step-by-Step"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Beginner's Guide to Cybersecurity and Ethical Hacking with Python in Python"
+    }
+  ],
+  "2025-07-31": [
+    {
+      "niche": "finance",
+      "title": "Beginner's Guide to Python for Finance and Financial Modeling in Python"
+    },
+    {
+      "niche": "education",
+      "title": "Beginner's Guide to Python for Education and Teaching in Python"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Beginner's Guide to Web Scraping and Data Extraction using Python in Python"
+    }
+  ],
+  "2025-08-01": [
+    {
+      "niche": "web_dev",
+      "title": "Best Practices for Web Development with Python with Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Best Practices for Data Science and Analytics with Python with Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Best Practices for Machine Learning and AI using Python with Python"
+    }
+  ],
+  "2025-08-02": [
+    {
+      "niche": "automation",
+      "title": "Beginner's Guide to Automation and Scripting in Python in Python"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Best Practices for Cybersecurity and Ethical Hacking with Python with Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Best Practices for Python for Finance and Financial Modeling with Python"
+    }
+  ],
+  "2025-08-03": [
+    {
+      "niche": "education",
+      "title": "Best Practices for Python for Education and Teaching with Python"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Best Practices for Web Scraping and Data Extraction using Python with Python"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Building Scalable Python Web Development with Python Systems"
+    }
+  ],
+  "2025-08-04": [
+    {
+      "niche": "data_science",
+      "title": "Building Scalable Python Data Science and Analytics with Python Systems"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Building Scalable Python Machine Learning and AI using Python Systems"
+    },
+    {
+      "niche": "automation",
+      "title": "Best Practices for Automation and Scripting in Python with Python"
+    }
+  ],
+  "2025-08-05": [
+    {
+      "niche": "cybersecurity",
+      "title": "Building Scalable Python Cybersecurity and Ethical Hacking with Python Systems"
+    },
+    {
+      "niche": "finance",
+      "title": "Building Scalable Python Python for Finance and Financial Modeling Systems"
+    },
+    {
+      "niche": "education",
+      "title": "Building Scalable Python Python for Education and Teaching Systems"
+    }
+  ],
+  "2025-08-06": [
+    {
+      "niche": "web_scraping",
+      "title": "Building Scalable Python Web Scraping and Data Extraction using Python Systems"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Common Mistakes in Python Web Development with Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Common Mistakes in Python Data Science and Analytics with Python"
+    }
+  ],
+  "2025-08-07": [
+    {
+      "niche": "ml_ai",
+      "title": "Common Mistakes in Python Machine Learning and AI using Python"
+    },
+    {
+      "niche": "automation",
+      "title": "Building Scalable Python Automation and Scripting in Python Systems"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Common Mistakes in Python Cybersecurity and Ethical Hacking with Python"
+    }
+  ],
+  "2025-08-08": [
+    {
+      "niche": "finance",
+      "title": "Common Mistakes in Python Python for Finance and Financial Modeling"
+    },
+    {
+      "niche": "education",
+      "title": "Common Mistakes in Python Python for Education and Teaching"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Common Mistakes in Python Web Scraping and Data Extraction using Python"
+    }
+  ],
+  "2025-08-09": [
+    {
+      "niche": "web_dev",
+      "title": "Data-Driven Python Web Development with Python Projects"
+    },
+    {
+      "niche": "data_science",
+      "title": "Data Science and Analytics with Python with Python: Step-by-Step"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Data-Driven Python Machine Learning and AI using Python Projects"
+    }
+  ],
+  "2025-08-10": [
+    {
+      "niche": "automation",
+      "title": "Common Mistakes in Python Automation and Scripting in Python"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Cybersecurity and Ethical Hacking with Python with Python: Step-by-Step"
+    },
+    {
+      "niche": "finance",
+      "title": "Data-Driven Python Python for Finance and Financial Modeling Projects"
+    }
+  ],
+  "2025-08-11": [
+    {
+      "niche": "education",
+      "title": "Data-Driven Python Python for Education and Teaching Projects"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Data-Driven Python Web Scraping and Data Extraction using Python Projects"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Deploying Python Web Development with Python Projects to the Web"
+    }
+  ],
+  "2025-08-12": [
+    {
+      "niche": "data_science",
+      "title": "Data-Driven Python Data Science and Analytics with Python Projects"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Deploying Python Machine Learning and AI using Python Projects to the Web"
+    },
+    {
+      "niche": "automation",
+      "title": "Data-Driven Python Automation and Scripting in Python Projects"
+    }
+  ],
+  "2025-08-13": [
+    {
+      "niche": "cybersecurity",
+      "title": "Data-Driven Python Cybersecurity and Ethical Hacking with Python Projects"
+    },
+    {
+      "niche": "finance",
+      "title": "Deploying Python Python for Finance and Financial Modeling Projects to the Web"
+    },
+    {
+      "niche": "education",
+      "title": "Deploying Python Python for Education and Teaching Projects to the Web"
+    }
+  ],
+  "2025-08-14": [
+    {
+      "niche": "web_scraping",
+      "title": "Deploying Python Web Scraping and Data Extraction using Python Projects to the Web"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Efficient Python Workflows for Web Development with Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Deploying Python Data Science and Analytics with Python Projects to the Web"
+    }
+  ],
+  "2025-08-15": [
+    {
+      "niche": "ml_ai",
+      "title": "Efficient Python Workflows for Machine Learning and AI using Python"
+    },
+    {
+      "niche": "automation",
+      "title": "Deploying Python Automation and Scripting in Python Projects to the Web"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Deploying Python Cybersecurity and Ethical Hacking with Python Projects to the Web"
+    }
+  ],
+  "2025-08-16": [
+    {
+      "niche": "finance",
+      "title": "Efficient Python Workflows for Python for Finance and Financial Modeling"
+    },
+    {
+      "niche": "education",
+      "title": "Efficient Python Workflows for Python for Education and Teaching"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Efficient Python Workflows for Web Scraping and Data Extraction using Python"
+    }
+  ],
+  "2025-08-17": [
+    {
+      "niche": "web_dev",
+      "title": "Getting Started with Open Source Python Web Development with Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Efficient Python Workflows for Data Science and Analytics with Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Getting Started with Open Source Python Machine Learning and AI using Python"
+    }
+  ],
+  "2025-08-18": [
+    {
+      "niche": "automation",
+      "title": "Efficient Python Workflows for Automation and Scripting in Python"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Efficient Python Workflows for Cybersecurity and Ethical Hacking with Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Getting Started with Open Source Python Python for Finance and Financial Modeling"
+    }
+  ],
+  "2025-08-19": [
+    {
+      "niche": "education",
+      "title": "Getting Started with Open Source Python Python for Education and Teaching"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Getting Started with Open Source Python Web Scraping and Data Extraction using Python"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Handling Errors in Python Web Development with Python Scripts"
+    }
+  ],
+  "2025-08-20": [
+    {
+      "niche": "data_science",
+      "title": "Getting Started with Open Source Python Data Science and Analytics with Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Handling Errors in Python Machine Learning and AI using Python Scripts"
+    },
+    {
+      "niche": "automation",
+      "title": "Getting Started with Open Source Python Automation and Scripting in Python"
+    }
+  ],
+  "2025-08-21": [
+    {
+      "niche": "cybersecurity",
+      "title": "Getting Started with Open Source Python Cybersecurity and Ethical Hacking with Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Handling Errors in Python Python for Finance and Financial Modeling Scripts"
+    },
+    {
+      "niche": "education",
+      "title": "Handling Errors in Python Python for Education and Teaching Scripts"
+    }
+  ],
+  "2025-08-22": [
+    {
+      "niche": "web_scraping",
+      "title": "Handling Errors in Python Web Scraping and Data Extraction using Python Scripts"
+    },
+    {
+      "niche": "web_dev",
+      "title": "How to Use Python for Web Development with Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Handling Errors in Python Data Science and Analytics with Python Scripts"
+    }
+  ],
+  "2025-08-23": [
+    {
+      "niche": "ml_ai",
+      "title": "How to Use Python for Machine Learning and AI using Python"
+    },
+    {
+      "niche": "automation",
+      "title": "Handling Errors in Python Automation and Scripting in Python Scripts"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Handling Errors in Python Cybersecurity and Ethical Hacking with Python Scripts"
+    }
+  ],
+  "2025-08-24": [
+    {
+      "niche": "finance",
+      "title": "How to Use Python for Python for Finance and Financial Modeling"
+    },
+    {
+      "niche": "education",
+      "title": "How to Use Python for Python for Education and Teaching"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "How to Use Python for Web Scraping and Data Extraction using Python"
+    }
+  ],
+  "2025-08-25": [
+    {
+      "niche": "web_dev",
+      "title": "Integrating APIs for Python Web Development with Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "How to Use Python for Data Science and Analytics with Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Integrating APIs for Python Machine Learning and AI using Python"
+    }
+  ],
+  "2025-08-26": [
+    {
+      "niche": "automation",
+      "title": "How to Use Python for Automation and Scripting in Python"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "How to Use Python for Cybersecurity and Ethical Hacking with Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Integrating APIs for Python Python for Finance and Financial Modeling"
+    }
+  ],
+  "2025-08-27": [
+    {
+      "niche": "education",
+      "title": "Integrating APIs for Python Python for Education and Teaching"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Integrating APIs for Python Web Scraping and Data Extraction using Python"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Optimizing Performance in Python Web Development with Python Projects"
+    }
+  ],
+  "2025-08-28": [
+    {
+      "niche": "data_science",
+      "title": "Integrating APIs for Python Data Science and Analytics with Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Machine Learning and AI using Python with Python: Step-by-Step"
+    },
+    {
+      "niche": "automation",
+      "title": "Integrating APIs for Python Automation and Scripting in Python"
+    }
+  ],
+  "2025-08-29": [
+    {
+      "niche": "cybersecurity",
+      "title": "Integrating APIs for Python Cybersecurity and Ethical Hacking with Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Optimizing Performance in Python Python for Finance and Financial Modeling Projects"
+    },
+    {
+      "niche": "education",
+      "title": "Optimizing Performance in Python Python for Education and Teaching Projects"
+    }
+  ],
+  "2025-08-30": [
+    {
+      "niche": "web_scraping",
+      "title": "Optimizing Performance in Python Web Scraping and Data Extraction using Python Projects"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Python CLI Tools for Web Development with Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Optimizing Performance in Python Data Science and Analytics with Python Projects"
+    }
+  ],
+  "2025-08-31": [
+    {
+      "niche": "ml_ai",
+      "title": "Optimizing Performance in Python Machine Learning and AI using Python Projects"
+    },
+    {
+      "niche": "automation",
+      "title": "Optimizing Performance in Python Automation and Scripting in Python Projects"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Optimizing Performance in Python Cybersecurity and Ethical Hacking with Python Projects"
+    }
+  ],
+  "2025-09-01": [
+    {
+      "niche": "finance",
+      "title": "Python CLI Tools for Python for Finance and Financial Modeling"
+    },
+    {
+      "niche": "education",
+      "title": "Python CLI Tools for Python for Education and Teaching"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Python CLI Tools for Web Scraping and Data Extraction using Python"
+    }
+  ],
+  "2025-09-02": [
+    {
+      "niche": "web_dev",
+      "title": "Python Libraries for Web Development with Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Python CLI Tools for Data Science and Analytics with Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Python CLI Tools for Machine Learning and AI using Python"
+    }
+  ],
+  "2025-09-03": [
+    {
+      "niche": "automation",
+      "title": "Python CLI Tools for Automation and Scripting in Python"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Python CLI Tools for Cybersecurity and Ethical Hacking with Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Python Libraries for Python for Finance and Financial Modeling"
+    }
+  ],
+  "2025-09-04": [
+    {
+      "niche": "education",
+      "title": "Python Libraries for Python for Education and Teaching"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Python Libraries for Web Scraping and Data Extraction using Python"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Python Use Cases in Modern Web Development with Python"
+    }
+  ],
+  "2025-09-05": [
+    {
+      "niche": "data_science",
+      "title": "Python Libraries for Data Science and Analytics with Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Python Libraries for Machine Learning and AI using Python"
+    },
+    {
+      "niche": "automation",
+      "title": "Python Libraries for Automation and Scripting in Python"
+    }
+  ],
+  "2025-09-06": [
+    {
+      "niche": "cybersecurity",
+      "title": "Python Libraries for Cybersecurity and Ethical Hacking with Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Python Use Cases in Modern Python for Finance and Financial Modeling"
+    },
+    {
+      "niche": "education",
+      "title": "Python Use Cases in Modern Python for Education and Teaching"
+    }
+  ],
+  "2025-09-07": [
+    {
+      "niche": "web_scraping",
+      "title": "Python Use Cases in Modern Web Scraping and Data Extraction using Python"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Real-World Examples of Web Development with Python in Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Python Use Cases in Modern Data Science and Analytics with Python"
+    }
+  ],
+  "2025-09-08": [
+    {
+      "niche": "ml_ai",
+      "title": "Python Use Cases in Modern Machine Learning and AI using Python"
+    },
+    {
+      "niche": "automation",
+      "title": "Python Use Cases in Modern Automation and Scripting in Python"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Python Use Cases in Modern Cybersecurity and Ethical Hacking with Python"
+    }
+  ],
+  "2025-09-09": [
+    {
+      "niche": "finance",
+      "title": "Python for Finance and Financial Modeling with Python: Step-by-Step"
+    },
+    {
+      "niche": "education",
+      "title": "Python for Education and Teaching with Python: Step-by-Step"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Real-World Examples of Web Scraping and Data Extraction using Python in Python"
+    }
+  ],
+  "2025-09-10": [
+    {
+      "niche": "web_dev",
+      "title": "Testing and Debugging in Python Web Development with Python Apps"
+    },
+    {
+      "niche": "data_science",
+      "title": "Real-World Examples of Data Science and Analytics with Python in Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Real-World Examples of Machine Learning and AI using Python in Python"
+    }
+  ],
+  "2025-09-11": [
+    {
+      "niche": "automation",
+      "title": "Real-World Examples of Automation and Scripting in Python in Python"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Real-World Examples of Cybersecurity and Ethical Hacking with Python in Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Real-World Examples of Python for Finance and Financial Modeling in Python"
+    }
+  ],
+  "2025-09-12": [
+    {
+      "niche": "education",
+      "title": "Real-World Examples of Python for Education and Teaching in Python"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Testing and Debugging in Python Web Scraping and Data Extraction using Python Apps"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Top Tools for Python-Based Web Development with Python Projects"
+    }
+  ],
+  "2025-09-13": [
+    {
+      "niche": "data_science",
+      "title": "Testing and Debugging in Python Data Science and Analytics with Python Apps"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Testing and Debugging in Python Machine Learning and AI using Python Apps"
+    },
+    {
+      "niche": "automation",
+      "title": "Testing and Debugging in Python Automation and Scripting in Python Apps"
+    }
+  ],
+  "2025-09-14": [
+    {
+      "niche": "cybersecurity",
+      "title": "Testing and Debugging in Python Cybersecurity and Ethical Hacking with Python Apps"
+    },
+    {
+      "niche": "finance",
+      "title": "Testing and Debugging in Python Python for Finance and Financial Modeling Apps"
+    },
+    {
+      "niche": "education",
+      "title": "Testing and Debugging in Python Python for Education and Teaching Apps"
+    }
+  ],
+  "2025-09-15": [
+    {
+      "niche": "web_scraping",
+      "title": "Top Tools for Python-Based Web Scraping and Data Extraction using Python Projects"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Using AI for Better Web Development with Python in Python"
+    },
+    {
+      "niche": "data_science",
+      "title": "Top Tools for Python-Based Data Science and Analytics with Python Projects"
+    }
+  ],
+  "2025-09-16": [
+    {
+      "niche": "ml_ai",
+      "title": "Top Tools for Python-Based Machine Learning and AI using Python Projects"
+    },
+    {
+      "niche": "automation",
+      "title": "Top Tools for Python-Based Automation and Scripting in Python Projects"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Top Tools for Python-Based Cybersecurity and Ethical Hacking with Python Projects"
+    }
+  ],
+  "2025-09-17": [
+    {
+      "niche": "finance",
+      "title": "Top Tools for Python-Based Python for Finance and Financial Modeling Projects"
+    },
+    {
+      "niche": "education",
+      "title": "Top Tools for Python-Based Python for Education and Teaching Projects"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Using AI for Better Web Scraping and Data Extraction using Python in Python"
+    }
+  ],
+  "2025-09-18": [
+    {
+      "niche": "web_dev",
+      "title": "Web Development with Python with Python: Step-by-Step"
+    },
+    {
+      "niche": "data_science",
+      "title": "Using AI for Better Data Science and Analytics with Python in Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Using AI for Better Machine Learning and AI using Python in Python"
+    }
+  ],
+  "2025-09-19": [
+    {
+      "niche": "automation",
+      "title": "Using AI for Better Automation and Scripting in Python in Python"
+    },
+    {
+      "niche": "cybersecurity",
+      "title": "Using AI for Better Cybersecurity and Ethical Hacking with Python in Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Using AI for Better Python for Finance and Financial Modeling in Python"
+    }
+  ],
+  "2025-09-20": [
+    {
+      "niche": "education",
+      "title": "Using AI for Better Python for Education and Teaching in Python"
+    },
+    {
+      "niche": "web_scraping",
+      "title": "Web Scraping and Data Extraction using Python with Python: Step-by-Step"
+    },
+    {
+      "niche": "web_dev",
+      "title": "Writing Clean Code for Python Web Development with Python"
+    }
+  ],
+  "2025-09-21": [
+    {
+      "niche": "data_science",
+      "title": "Writing Clean Code for Python Data Science and Analytics with Python"
+    },
+    {
+      "niche": "ml_ai",
+      "title": "Writing Clean Code for Python Machine Learning and AI using Python"
+    },
+    {
+      "niche": "automation",
+      "title": "Writing Clean Code for Python Automation and Scripting in Python"
+    }
+  ],
+  "2025-09-22": [
+    {
+      "niche": "cybersecurity",
+      "title": "Writing Clean Code for Python Cybersecurity and Ethical Hacking with Python"
+    },
+    {
+      "niche": "finance",
+      "title": "Writing Clean Code for Python Python for Finance and Financial Modeling"
+    },
+    {
+      "niche": "education",
+      "title": "Writing Clean Code for Python Python for Education and Teaching"
+    }
+  ],
+  "2025-09-23": [
+    {
+      "niche": "web_scraping",
+      "title": "Writing Clean Code for Python Web Scraping and Data Extraction using Python"
+    }
+  ]
+}

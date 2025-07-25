@@ -1,0 +1,35 @@
+openai:
+  model: gpt-4
+  temperature: 0.7
+  max_tokens: 1200
+
+unsplash:
+  enabled: true
+  orientation: landscape
+  fallback_image: true
+
+seo:
+  generate_meta: true
+  generate_keywords: true
+
+output:
+  format: markdown
+  include_image: true
+  save_media_copy: true
+  featured_image_name: featured.jpg
+
+article:
+  sections:
+    - Introduction
+    - Step-by-step Guide
+    - Python Code Examples
+    - Common Mistakes
+    - Best Practices
+    - FAQs
+    - Conclusion
+    - Meta Description and Keywords
+  word_count_target: 1500
+
+author:
+  name: AutoPythonWriter
+  tags: ["Python", "Development", "Automation"]
