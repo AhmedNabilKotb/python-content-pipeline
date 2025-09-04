@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "defaults": { "weight": 1 },
+  "variants": [
+    {
+      "id": "classic",
+      "weight": 2,
+      "sections": ["Why it matters", "Prerequisites", "Core ideas", "Step-by-step", "Pitfalls & gotchas", "Next steps"]
+    },
+    {
+      "id": "how_to",
+      "weight": 3,
+      "sections": ["What you'll build", "Setup", "Implementation", "Testing it", "Extensions", "Wrap-up"]
+    },
+    {
+      "id": "deep_dive",
+      "weight": 2,
+      "sections": ["Context & mental model", "Under the hood", "Trade-offs", "Performance notes", "Practical patterns", "Summary"]
+    },
+    {
+      "id": "case_study",
+      "weight": 1,
+      "sections": ["Scenario", "Constraints", "Solution design", "Results", "What we'd do differently", "Takeaways"]
+    },
+    {
+      "id": "faq",
+      "weight": 1,
+      "sections": ["Quick answers", "Common mistakes", "When not to use", "References"]
+    },
+    {
+      "id": "cheatsheet",
+      "weight": 1,
+      "sections": ["Essentials", "Patterns", "Anti-patterns", "Snippets", "Checklist"]
+    },
+    {
+      "id": "auto",
+      "weight": 4,
+      "sections": ["Opening hook", "Main path", "Edge cases", "Validation/Testing", "Where to go next"]
+    }
+  ],
+  "header_synonyms": {
+    "Why it matters": ["Why this matters", "Why care", "Context first"],
+    "Prerequisites": ["What you'll need", "Before you start", "Requirements"],
+    "Core ideas": ["Key concepts", "Mental model", "Foundations"],
+    "Step-by-step": ["Hands-on", "Walkthrough", "Step by step", "Guide"],
+    "Pitfalls & gotchas": ["Traps & gotchas", "Common pitfalls", "Watch outs", "Gotchas"],
+    "Next steps": ["Where to go next", "Further exploration", "What to try next"],
+
+    "What you'll build": ["What we’ll build", "Goal", "End result"],
+    "Setup": ["Environment setup", "Getting ready", "Install & configure"],
+    "Implementation": ["Build it", "Coding it", "Develop"],
+    "Testing it": ["Validate it", "Quick test", "Verification"],
+    "Extensions": ["Variants", "Enhancements", "Going further"],
+    "Wrap-up": ["Recap", "Summary", "Conclusion"],
+
+    "Context & mental model": ["Context and mental model", "Big picture", "Model"],
+    "Under the hood": ["How it works", "Internals", "Inside"],
+    "Trade-offs": ["Design choices", "Pros & cons", "Considerations"],
+    "Performance notes": ["Performance", "Tuning tips", "Optimization notes"],
+    "Practical patterns": ["Patterns", "Recipes", "Playbook"],
+    "Summary": ["Wrap-up", "Recap"],
+
+    "Scenario": ["Background", "Use case", "Story"],
+    "Constraints": ["Assumptions", "Limits", "Non-goals"],
+    "Solution design": ["Design", "Approach", "Architecture"],
+    "Results": ["Outcomes", "What we got", "Impact"],
+    "What we'd do differently": ["With hindsight", "If we did it again"],
+    "Takeaways": ["Lessons learned", "Key takeaways", "What matters"],
+
+    "Quick answers": ["FAQ", "Short answers", "Fast answers"],
+    "Common mistakes": ["Avoid these", "Mistakes to avoid", "Missteps"],
+    "When not to use": ["Limitations", "Not a fit when…", "Contraindications"],
+    "References": ["Further reading", "Sources", "Links"],
+
+    "Essentials": ["Basics", "At a glance", "Core"],
+    "Patterns": ["Reusable patterns", "Go-to patterns"],
+    "Anti-patterns": ["Things to avoid", "Smells", "Bad practices"],
+    "Snippets": ["Code snippets", "Quick snippets", "Examples"],
+    "Checklist": ["Final checklist", "Checklist", "To-do"],
+
+    "Opening hook": ["Hook", "Why this matters", "Start here"],
+    "Main path": ["Happy path", "Core flow", "Primary path"],
+    "Edge cases": ["Corner cases", "Unhappy paths", "Edge conditions"],
+    "Validation/Testing": ["Validation and testing", "Test & verify", "Quality checks"],
+    "Where to go next": ["Next steps", "Further exploration", "What to try next"]
+  }
+}

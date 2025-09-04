@@ -1,0 +1,579 @@
+{
+  "version": 2,
+  "updated": "2025-08-15",
+  "defaults": {
+    "max_links_per_article": 3,
+    "min_distance_words": 150,
+    "preferred_positions": ["intro", "mid", "outro"],
+    "open_in_new_tab": true,
+    "rel": ["noopener", "noreferrer"],
+    "nofollow_low_trust_below": 3,
+    "anchor_templates": [
+      "{keyphrase} guide",
+      "Official {topic} docs",
+      "{brand} tutorial for {topic}",
+      "How to use {library} for {topic}"
+    ],
+    "image_alt_templates": [
+      "{keyphrase} reference",
+      "{topic} explained with {library}",
+      "{brand} overview for {topic}"
+    ]
+  },
+  "niches": {
+    "Automation": {
+      "description": "Resources for Python automation and scripting",
+      "priority": 1,
+      "max_links_per_article": 3,
+      "anchor_guidelines": {
+        "prefer_official": true,
+        "include_keyphrase": true,
+        "avoid_generic": ["click here", "read more"],
+        "min_variations": 2
+      },
+      "links": {
+        "Automate the Boring Stuff": {
+          "url": "https://automatetheboringstuff.com/",
+          "type": "book",
+          "author": "Al Sweigart",
+          "recommended_for": ["beginners", "intermediate"],
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Automate the Boring Stuff", "automation with Python book"]
+        },
+        "Python Automation Docs": {
+          "url": "https://docs.python.org/3/library/automation.html",
+          "type": "official_docs",
+          "section": "Standard Library",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Python standard library for automation", "official automation modules"]
+        },
+        "Python Subprocess Guide": {
+          "url": "https://realpython.com/python-subprocess/",
+          "type": "tutorial",
+          "skill_level": "intermediate",
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["subprocess tutorial", "run shell commands with Python"]
+        },
+        "APScheduler Documentation": {
+          "url": "https://apscheduler.readthedocs.io/",
+          "type": "official_docs",
+          "library": "APScheduler",
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["schedule jobs with APScheduler", "task scheduling in Python"]
+        }
+      }
+    },
+    "Cybersecurity": {
+      "description": "Python for cybersecurity and ethical hacking",
+      "priority": 2,
+      "max_links_per_article": 3,
+      "anchor_guidelines": {
+        "prefer_official": true,
+        "include_keyphrase": true,
+        "avoid_generic": ["learn more", "this article"],
+        "min_variations": 2
+      },
+      "links": {
+        "OWASP Foundation": {
+          "url": "https://owasp.org/",
+          "type": "organization",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["OWASP Top 10", "OWASP secure coding"]
+        },
+        "Kali Linux Documentation": {
+          "url": "https://www.kali.org/docs/",
+          "type": "official_docs",
+          "tags": ["pentesting", "security"],
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Kali Linux docs", "Kali tooling guide"]
+        },
+        "Python Security Best Practices": {
+          "url": "https://security.openstack.org/",
+          "type": "guide",
+          "maintained": true,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Python security best practices", "secure coding in Python"]
+        },
+        "Mitmproxy Docs": {
+          "url": "https://docs.mitmproxy.org/",
+          "type": "official_docs",
+          "tags": ["proxy", "traffic inspection"],
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["mitmproxy Python usage", "inspect HTTP traffic with Python"]
+        }
+      }
+    },
+    "Finance": {
+      "description": "Python applications in finance and trading",
+      "priority": 3,
+      "max_links_per_article": 3,
+      "anchor_guidelines": {
+        "prefer_official": true,
+        "include_keyphrase": true,
+        "avoid_generic": ["here", "this site"],
+        "min_variations": 2
+      },
+      "links": {
+        "Investopedia Guide": {
+          "url": "https://www.investopedia.com/python-finance-4689745",
+          "type": "educational",
+          "year_published": 2024,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Python for finance guide", "financial analysis with Python"]
+        },
+        "Pandas Finance Documentation": {
+          "url": "https://pandas.pydata.org/docs/user_guide/finance.html",
+          "type": "official_docs",
+          "examples": true,
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Pandas finance guide", "time series in Pandas"]
+        },
+        "QuantConnect Python": {
+          "url": "https://www.quantconnect.com/docs/v2/writing-algorithms/key-concepts",
+          "type": "platform",
+          "api": true,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["algorithmic trading with Python", "QuantConnect key concepts"]
+        },
+        "yfinance Documentation": {
+          "url": "https://pypi.org/project/yfinance/",
+          "type": "library",
+          "api": true,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["download market data with yfinance", "Yahoo Finance Python API"]
+        }
+      }
+    },
+    "Data Science & Analytics": {
+      "description": "Resources for data science and analytics with Python",
+      "priority": 1,
+      "max_links_per_article": 3,
+      "anchor_guidelines": {
+        "prefer_official": true,
+        "include_keyphrase": true,
+        "avoid_generic": ["this link", "article"],
+        "min_variations": 2
+      },
+      "links": {
+        "Scikit-learn Documentation": {
+          "url": "https://scikit-learn.org/stable/documentation.html",
+          "type": "official_docs",
+          "version": "1.3.2",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["scikit-learn documentation", "machine learning with scikit-learn"]
+        },
+        "Kaggle Learn Tutorials": {
+          "url": "https://www.kaggle.com/learn",
+          "type": "interactive",
+          "certificates": true,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Kaggle Learn data science", "hands-on ML lessons"]
+        },
+        "PyData Tutorials": {
+          "url": "https://pydata.org/tutorials/",
+          "type": "community",
+          "events": true,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["PyData tutorials", "open-source data tooling"]
+        },
+        "NumPy User Guide": {
+          "url": "https://numpy.org/doc/stable/user/",
+          "type": "official_docs",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["NumPy user guide", "numerical computing with NumPy"]
+        },
+        "Pandas User Guide": {
+          "url": "https://pandas.pydata.org/docs/user_guide/index.html",
+          "type": "official_docs",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Pandas user guide", "data analysis with Pandas"]
+        }
+      }
+    },
+    "Machine Learning & AI": {
+      "description": "Machine learning and artificial intelligence resources",
+      "priority": 1,
+      "max_links_per_article": 3,
+      "anchor_guidelines": {
+        "prefer_official": true,
+        "include_keyphrase": true,
+        "avoid_generic": ["source", "docs"],
+        "min_variations": 2
+      },
+      "links": {
+        "TensorFlow Documentation": {
+          "url": "https://www.tensorflow.org/learn",
+          "type": "official_docs",
+          "framework": "TensorFlow",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["TensorFlow tutorials", "deep learning with TensorFlow"]
+        },
+        "PyTorch Tutorials": {
+          "url": "https://pytorch.org/tutorials/",
+          "type": "official_docs",
+          "framework": "PyTorch",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["PyTorch tutorials", "PyTorch deep learning"]
+        },
+        "Fast.ai Practical Deep Learning": {
+          "url": "https://course.fast.ai/",
+          "type": "course",
+          "free": true,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["fast.ai course", "practical deep learning for coders"]
+        },
+        "Hugging Face Transformers": {
+          "url": "https://huggingface.co/docs/transformers/index",
+          "type": "official_docs",
+          "framework": "Transformers",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Transformers documentation", "NLP with Hugging Face"]
+        },
+        "Keras Documentation": {
+          "url": "https://keras.io/getting_started/",
+          "type": "official_docs",
+          "framework": "Keras",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Keras getting started", "deep learning with Keras"]
+        }
+      }
+    },
+    "Web Development": {
+      "description": "Python web development frameworks and tools",
+      "priority": 2,
+      "max_links_per_article": 3,
+      "anchor_guidelines": {
+        "prefer_official": true,
+        "include_keyphrase": true,
+        "avoid_generic": ["website", "link"],
+        "min_variations": 2
+      },
+      "links": {
+        "Django Documentation": {
+          "url": "https://docs.djangoproject.com/en/stable/",
+          "type": "official_docs",
+          "version": "5.0",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Django documentation", "build web apps with Django"]
+        },
+        "Flask Documentation": {
+          "url": "https://flask.palletsprojects.com/en/latest/",
+          "type": "official_docs",
+          "version": "3.0",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Flask documentation", "micro web framework Flask"]
+        },
+        "Django REST Framework": {
+          "url": "https://www.django-rest-framework.org/",
+          "type": "library",
+          "compatibility": "Django",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Django REST Framework", "build APIs with DRF"]
+        },
+        "FastAPI Documentation": {
+          "url": "https://fastapi.tiangolo.com/",
+          "type": "official_docs",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["FastAPI docs", "high-performance APIs with FastAPI"]
+        },
+        "SQLAlchemy Documentation": {
+          "url": "https://docs.sqlalchemy.org/en/20/",
+          "type": "official_docs",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["SQLAlchemy ORM docs", "database access with SQLAlchemy"]
+        }
+      }
+    },
+    "Educational Python": {
+      "description": "Learning resources for Python beginners",
+      "priority": 3,
+      "max_links_per_article": 2,
+      "anchor_guidelines": {
+        "prefer_official": true,
+        "include_keyphrase": true,
+        "avoid_generic": ["read more", "see here"],
+        "min_variations": 2
+      },
+      "links": {
+        "Python Official Tutorial": {
+          "url": "https://docs.python.org/3/tutorial/",
+          "type": "official_docs",
+          "python_version": "3.12",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["official Python tutorial", "learn Python basics"]
+        },
+        "Real Python Tutorials": {
+          "url": "https://realpython.com/",
+          "type": "tutorials",
+          "premium_content": true,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Real Python tutorials", "step-by-step Python guides"]
+        },
+        "Python for Beginners": {
+          "url": "https://www.python.org/about/gettingstarted/",
+          "type": "official",
+          "audience": "beginners",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Python getting started", "beginner Python setup"]
+        },
+        "Think Python 2e": {
+          "url": "https://greenteapress.com/wp/think-python-2e/",
+          "type": "book",
+          "free": true,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Think Python book", "learn Python fundamentals"]
+        }
+      }
+    },
+    "Web Scraping & Data Extraction": {
+      "description": "Tools and libraries for web scraping",
+      "priority": 2,
+      "max_links_per_article": 3,
+      "anchor_guidelines": {
+        "prefer_official": true,
+        "include_keyphrase": true,
+        "avoid_generic": ["source", "page"],
+        "min_variations": 2
+      },
+      "links": {
+        "BeautifulSoup Documentation": {
+          "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
+          "type": "official_docs",
+          "library": "BeautifulSoup4",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["BeautifulSoup 4 docs", "parse HTML with BeautifulSoup"]
+        },
+        "Scrapy Documentation": {
+          "url": "https://docs.scrapy.org/en/latest/",
+          "type": "official_docs",
+          "framework": true,
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Scrapy documentation", "build crawlers with Scrapy"]
+        },
+        "Selenium Python Docs": {
+          "url": "https://www.selenium.dev/documentation/webdriver/",
+          "type": "official_docs",
+          "browser_automation": true,
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Selenium WebDriver Python", "browser automation with Selenium"]
+        },
+        "Requests Documentation": {
+          "url": "https://requests.readthedocs.io/en/latest/",
+          "type": "official_docs",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Requests library docs", "HTTP requests in Python"]
+        },
+        "Playwright for Python": {
+          "url": "https://playwright.dev/python/docs/intro",
+          "type": "official_docs",
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Playwright Python docs", "modern browser automation with Playwright"]
+        }
+      }
+    },
+    "Python Tips": {
+      "description": "Advanced Python tips and tricks",
+      "priority": 3,
+      "max_links_per_article": 2,
+      "anchor_guidelines": {
+        "prefer_official": true,
+        "include_keyphrase": true,
+        "avoid_generic": ["tips", "click"],
+        "min_variations": 2
+      },
+      "links": {
+        "Python Tips Blog": {
+          "url": "https://pythontips.com/",
+          "type": "blog",
+          "author": "Yasoob Khalid",
+          "trust_score": 3,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Python tips blog", "advanced Python patterns"]
+        },
+        "Python Tricks Book": {
+          "url": "https://realpython.com/products/python-tricks-book/",
+          "type": "book",
+          "free_sample": true,
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Python Tricks book", "effective Python techniques"]
+        },
+        "Python Weekly Tips": {
+          "url": "https://pybit.es/python-weekly-tips.html",
+          "type": "newsletter",
+          "frequency": "weekly",
+          "trust_score": 3,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["weekly Python tips", "Python tips newsletter"]
+        },
+        "PEP 8 — Style Guide for Python Code": {
+          "url": "https://peps.python.org/pep-0008/",
+          "type": "official_docs",
+          "trust_score": 5,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["PEP 8 style guide", "Python code style standards"]
+        },
+        "Effective Python": {
+          "url": "https://effectivepython.com/",
+          "type": "book",
+          "trust_score": 4,
+          "nofollow": false,
+          "last_checked": "2025-08-15",
+          "preferred_anchors": ["Effective Python book", "write better Python"]
+        }
+      }
+    }
+  },
+  "link_types": {
+    "official_docs": {
+      "description": "Official documentation for libraries/frameworks",
+      "priority": 1,
+      "icon": "📄"
+    },
+    "official": {
+      "description": "Official organization or language resources",
+      "priority": 1,
+      "icon": "🏛️"
+    },
+    "tutorial": {
+      "description": "Step-by-step learning guides",
+      "priority": 2,
+      "icon": "📝"
+    },
+    "book": {
+      "description": "Published books or ebooks",
+      "priority": 3,
+      "icon": "📚"
+    },
+    "course": {
+      "description": "Structured learning courses",
+      "priority": 2,
+      "icon": "🎓"
+    },
+    "library": {
+      "description": "Library or package home/documentation",
+      "priority": 2,
+      "icon": "📦"
+    },
+    "platform": {
+      "description": "Hosted platforms and APIs",
+      "priority": 3,
+      "icon": "🧩"
+    },
+    "interactive": {
+      "description": "Hands-on, browser-based learning",
+      "priority": 3,
+      "icon": "🧪"
+    },
+    "community": {
+      "description": "Community-curated resources and events",
+      "priority": 3,
+      "icon": "👥"
+    },
+    "newsletter": {
+      "description": "Regular email publications",
+      "priority": 4,
+      "icon": "📬"
+    },
+    "organization": {
+      "description": "Standards and non-profit orgs",
+      "priority": 1,
+      "icon": "🏢"
+    },
+    "guide": {
+      "description": "Best practices and security guides",
+      "priority": 2,
+      "icon": "🛡️"
+    },
+    "blog": {
+      "description": "Editorial and technical blogs",
+      "priority": 4,
+      "icon": "📰"
+    }
+  },
+  "quality_metrics": {
+    "min_trust_score": 3,
+    "required_attributes": ["url", "type"],
+    "recent_threshold": "2023-01-01",
+    "maintained": true,
+    "require_https": true,
+    "allowed_tlds": [".org", ".com", ".io", ".dev", ".ai", ".edu", ".gov"],
+    "banned_domains": []
+  }
+}

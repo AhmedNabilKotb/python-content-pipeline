@@ -1,0 +1,161 @@
+{
+  "version": 3,
+  "updated_at": "2025-08-19T00:00:00Z",
+  "sources": [
+    { "url": "https://www.djangoproject.com/rss/weblog/", "niche": "Web Development" },
+    { "url": "https://palletsprojects.com/blog/feed.xml", "niche": "Web Development" },
+    { "url": "https://github.com/tiangolo/fastapi/releases.atom", "niche": "Web Development" },
+    { "url": "https://testdriven.io/blog/rss/", "niche": "Web Development" },
+
+    { "url": "https://www.kdnuggets.com/feed", "niche": "Data Science and Analytics" },
+    { "url": "https://www.dataquest.io/blog/feed/", "niche": "Data Science and Analytics" },
+    { "url": "https://pbpython.com/feeds/all.atom.xml", "niche": "Data Science and Analytics" },
+    { "url": "https://www.analyticsvidhya.com/feed", "niche": "Data Science and Analytics" },
+
+    { "url": "https://pytorch.org/blog/feed.xml", "niche": "Machine Learning and AI" },
+    { "url": "https://blog.tensorflow.org/feeds/posts/default", "niche": "Machine Learning and AI" },
+    { "url": "https://huggingface.co/blog/feed.xml", "niche": "Machine Learning and AI" },
+    { "url": "https://www.fast.ai/atom.xml", "niche": "Machine Learning and AI" },
+
+    { "url": "https://inventwithpython.com/blog/feed.atom", "niche": "Automation and Scripting" },
+    { "url": "https://www.blog.pythonlibrary.org/feed/", "niche": "Automation and Scripting" },
+    { "url": "https://www.fullstackpython.com/blog/rss.xml", "niche": "Automation and Scripting" },
+
+    { "url": "https://isc.sans.edu/rssfeed.xml", "niche": "Cybersecurity and Ethical Hacking" },
+    { "url": "https://blog.trailofbits.com/feed/", "niche": "Cybersecurity and Ethical Hacking" },
+    { "url": "https://portswigger.net/daily-swig/rss", "niche": "Cybersecurity and Ethical Hacking" },
+    { "url": "https://www.kitploit.com/feeds/posts/default", "niche": "Cybersecurity and Ethical Hacking" },
+
+    { "url": "https://pyquantnews.com/feed/", "niche": "Python for Finance" },
+    { "url": "https://www.quantstart.com/feed/", "niche": "Python for Finance" },
+    { "url": "https://blog.quantinsti.com/rss/", "niche": "Python for Finance" },
+
+    { "url": "https://realpython.com/feeds/all.atom.xml", "niche": "Educational Python" },
+    { "url": "https://www.pythonmorsels.com/feeds/blog.atom/", "niche": "Educational Python" },
+    { "url": "https://martinheinz.dev/rss", "niche": "Educational Python" },
+    { "url": "https://nedbatchelder.com/blog/rss.xml", "niche": "Educational Python" },
+
+    { "url": "https://www.zyte.com/blog/rss.xml", "niche": "Web Scraping and Data Extraction" },
+    { "url": "https://www.scrapehero.com/feed/", "niche": "Web Scraping and Data Extraction" },
+    { "url": "https://www.parsehub.com/blog/feed/", "niche": "Web Scraping and Data Extraction" },
+    { "url": "https://www.scrapingbee.com/blog/rss.xml", "niche": "Web Scraping and Data Extraction" },
+
+    { "url": "https://adamj.eu/tech/atom.xml", "niche": "Python Tips" },
+    { "url": "https://julien.danjou.info/feeds/all.atom.xml", "niche": "Python Tips" },
+    { "url": "https://www.bitecode.dev/feed.xml", "niche": "Python Tips" },
+    { "url": "https://www.b-list.org/weblog/atom.xml", "niche": "Python Tips" },
+
+    { "url": "https://numpy.org/feed.xml", "niche": "Scientific & Numerical Computing" },
+    { "url": "https://blog.jupyter.org/feed", "niche": "Scientific & Numerical Computing" },
+    { "url": "https://blog.dask.org/feed.xml", "niche": "Scientific & Numerical Computing" },
+    { "url": "https://planet.scipy.org/atom.xml", "niche": "Scientific & Numerical Computing" },
+
+    { "url": "https://aws.amazon.com/blogs/compute/feed/", "niche": "DevOps, Cloud & Infrastructure" },
+    { "url": "https://cloud.google.com/blog/rss", "niche": "DevOps, Cloud & Infrastructure" },
+    { "url": "https://www.docker.com/blog/feed/", "niche": "DevOps, Cloud & Infrastructure" },
+    { "url": "https://devblogs.microsoft.com/devops/feed/", "niche": "DevOps, Cloud & Infrastructure" },
+
+    { "url": "https://airflow.apache.org/blog/index.xml", "niche": "Data Engineering & Pipelines" },
+    { "url": "https://www.confluent.io/blog/rss/", "niche": "Data Engineering & Pipelines" },
+    { "url": "https://www.prefect.io/blog/rss.xml", "niche": "Data Engineering & Pipelines" },
+    { "url": "https://dagster.io/blog.rss", "niche": "Data Engineering & Pipelines" },
+
+    { "url": "https://beeware.org/news/index.xml", "niche": "Desktop GUI & Apps" },
+    { "url": "https://wxpython.org/news/atom.xml", "niche": "Desktop GUI & Apps" },
+    { "url": "https://www.qt.io/blog/rss.xml", "niche": "Desktop GUI & Apps" },
+    { "url": "https://www.qt.io/blog/tag/pyside/rss", "niche": "Desktop GUI & Apps" },
+
+    { "url": "https://micropython.org/feed.xml", "niche": "IoT, Embedded & Hardware" },
+    { "url": "https://blog.adafruit.com/category/circuitpython/feed/", "niche": "IoT, Embedded & Hardware" },
+    { "url": "https://www.raspberrypi.com/news/feed/", "niche": "IoT, Embedded & Hardware" },
+    { "url": "https://www.home-assistant.io/atom.xml", "niche": "IoT, Embedded & Hardware" },
+
+    { "url": "https://hypothesis.works/articles/index.xml", "niche": "Testing, Quality & Types" },
+    { "url": "https://mypy-lang.blogspot.com/feeds/posts/default?alt=rss", "niche": "Testing, Quality & Types" },
+    { "url": "https://github.com/pytest-dev/pytest/releases.atom", "niche": "Testing, Quality & Types" },
+    { "url": "https://github.com/pydantic/pydantic/releases.atom", "niche": "Testing, Quality & Types" },
+
+    { "url": "https://wandb.ai/site/blog/feed", "niche": "MLOps & Production AI" },
+    { "url": "https://www.seldon.io/blog/rss.xml", "niche": "MLOps & Production AI" },
+    { "url": "https://www.bentoml.com/blog/rss.xml", "niche": "MLOps & Production AI" },
+    { "url": "https://www.anyscale.com/blog/rss", "niche": "MLOps & Production AI" },
+
+    { "url": "https://blog.mapbox.com/feed", "niche": "Geospatial & GIS" },
+    { "url": "https://developers.arcgis.com/blog/feed/", "niche": "Geospatial & GIS" },
+    { "url": "https://plugins.qgis.org/planet/rss20.xml", "niche": "Geospatial & GIS" },
+    { "url": "https://planet.osgeo.org/atom.xml", "niche": "Geospatial & GIS" },
+
+    { "url": "https://www.pygame.org/news.rss", "niche": "Game Development with Python" },
+    { "url": "https://www.panda3d.org/blog/index.xml", "niche": "Game Development with Python" },
+    { "url": "https://www.renpy.org/feeds/atom.xml", "niche": "Game Development with Python" },
+    { "url": "https://www.reddit.com/r/pygame/.rss", "niche": "Game Development with Python" },
+
+    { "url": "https://blog.postman.com/feed/", "niche": "APIs & Integrations" },
+    { "url": "https://stripe.com/blog/developers.rss", "niche": "APIs & Integrations" },
+    { "url": "https://www.twilio.com/blog/rss", "niche": "APIs & Integrations" },
+    { "url": "https://developers.googleblog.com/atom.xml", "niche": "APIs & Integrations" },
+
+    { "url": "https://plotly.com/blog/rss.xml", "niche": "Data Visualization & Storytelling" },
+    { "url": "https://blog.datawrapper.de/rss/", "niche": "Data Visualization & Storytelling" },
+    { "url": "https://flowingdata.com/feed/", "niche": "Data Visualization & Storytelling" },
+    { "url": "https://observablehq.com/blog/rss.xml", "niche": "Data Visualization & Storytelling" },
+
+    { "url": "https://planetpython.org/rss20.xml", "niche": "General Python" },
+    { "url": "https://blog.python.org/feeds/posts/default?alt=rss", "niche": "General Python" },
+    { "url": "https://www.reddit.com/r/Python/.rss", "niche": "General Python" },
+    { "url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss", "niche": "General Python" },
+
+    { "url": "https://github.com/encode/starlette/releases.atom", "niche": "Web Development" },
+    { "url": "https://github.com/encode/uvicorn/releases.atom", "niche": "Web Development" },
+    { "url": "https://github.com/benoitc/gunicorn/releases.atom", "niche": "Web Development" },
+    { "url": "https://github.com/django/django/releases.atom", "niche": "Web Development" },
+
+    { "url": "https://github.com/pandas-dev/pandas/releases.atom", "niche": "Data Science and Analytics" },
+    { "url": "https://github.com/numpy/numpy/releases.atom", "niche": "Data Science and Analytics" },
+
+    { "url": "https://github.com/scikit-learn/scikit-learn/releases.atom", "niche": "Machine Learning and AI" },
+    { "url": "https://github.com/dmlc/xgboost/releases.atom", "niche": "Machine Learning and AI" },
+    { "url": "https://github.com/microsoft/LightGBM/releases.atom", "niche": "Machine Learning and AI" },
+
+    { "url": "https://mlflow.org/blog/index.xml", "niche": "MLOps & Production AI" },
+    { "url": "https://dvc.org/blog/index.xml", "niche": "MLOps & Production AI" },
+    { "url": "https://github.com/ray-project/ray/releases.atom", "niche": "MLOps & Production AI" },
+
+    { "url": "https://kubernetes.io/feed.xml", "niche": "DevOps, Cloud & Infrastructure" },
+    { "url": "https://github.com/hashicorp/terraform/releases.atom", "niche": "DevOps, Cloud & Infrastructure" },
+
+    { "url": "https://www.getdbt.com/blog/rss.xml", "niche": "Data Engineering & Pipelines" },
+    { "url": "https://github.com/apache/kafka/releases.atom", "niche": "Data Engineering & Pipelines" },
+    { "url": "https://github.com/duckdb/duckdb/releases.atom", "niche": "Data Engineering & Pipelines" },
+    { "url": "https://github.com/apache/airflow/releases.atom", "niche": "Data Engineering & Pipelines" },
+
+    { "url": "https://blog.kivy.org/feed/", "niche": "Desktop GUI & Apps" },
+
+    { "url": "https://github.com/tox-dev/tox/releases.atom", "niche": "Testing, Quality & Types" },
+    { "url": "https://github.com/astral-sh/ruff/releases.atom", "niche": "Testing, Quality & Types" },
+
+    { "url": "https://github.com/scipy/scipy/releases.atom", "niche": "Scientific & Numerical Computing" },
+
+    { "url": "https://github.com/geopandas/geopandas/releases.atom", "niche": "Geospatial & GIS" },
+    { "url": "https://github.com/shapely/shapely/releases.atom", "niche": "Geospatial & GIS" },
+    { "url": "https://github.com/rasterio/rasterio/releases.atom", "niche": "Geospatial & GIS" },
+
+    { "url": "https://www.openapis.org/blog/feed", "niche": "APIs & Integrations" },
+    { "url": "https://www.asyncapi.com/blog/rss.xml", "niche": "APIs & Integrations" },
+    { "url": "https://swagger.io/blog/feed/", "niche": "APIs & Integrations" },
+
+    { "url": "https://matplotlib.org/matplotblog/feed.xml", "niche": "Data Visualization & Storytelling" },
+    { "url": "https://github.com/mwaskom/seaborn/releases.atom", "niche": "Data Visualization & Storytelling" },
+    { "url": "https://github.com/matplotlib/matplotlib/releases.atom", "niche": "Data Visualization & Storytelling" },
+    { "url": "https://github.com/plotly/plotly.py/releases.atom", "niche": "Data Visualization & Storytelling" },
+    { "url": "https://github.com/vega/altair/releases.atom", "niche": "Data Visualization & Storytelling" },
+
+    { "url": "https://blog.pypi.org/feed.xml", "niche": "General Python" },
+    { "url": "https://pypi.org/rss/packages.xml", "niche": "General Python" },
+    { "url": "https://pypi.org/rss/updates.xml", "niche": "General Python" },
+    { "url": "https://github.com/pypa/pip/releases.atom", "niche": "General Python" },
+    { "url": "https://github.com/python-poetry/poetry/releases.atom", "niche": "General Python" },
+
+    { "url": "https://blog.jetbrains.com/pycharm/feed/", "niche": "Educational Python" }
+  ]
+}

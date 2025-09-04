@@ -1,0 +1,1267 @@
+[
+  {
+    "phrase": "introduction to data cleaning with pandas",
+    "first_used_date": "2025-08-20T22:57:44+00:00",
+    "last_used_date": "2025-08-20T22:57:44+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os",
+    "first_used_date": "2025-08-20T22:57:44+00:00",
+    "last_used_date": "2025-08-20T22:57:44+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation",
+    "first_used_date": "2025-08-20T22:57:44+00:00",
+    "last_used_date": "2025-08-20T22:57:44+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action",
+    "first_used_date": "2025-08-20T22:57:44+00:00",
+    "last_used_date": "2025-08-20T22:57:44+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python",
+    "first_used_date": "2025-08-20T22:57:44+00:00",
+    "last_used_date": "2025-08-20T22:57:44+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas in python",
+    "first_used_date": "2025-08-20T22:57:44+00:00",
+    "last_used_date": "2025-08-20T22:57:44+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os in python",
+    "first_used_date": "2025-08-20T22:59:58+00:00",
+    "last_used_date": "2025-08-20T22:59:58+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation how to",
+    "first_used_date": "2025-08-20T23:04:17+00:00",
+    "last_used_date": "2025-08-20T23:04:17+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 1",
+    "first_used_date": "2025-08-20T23:07:16+00:00",
+    "last_used_date": "2025-08-20T23:07:16+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python how to",
+    "first_used_date": "2025-08-20T23:10:52+00:00",
+    "last_used_date": "2025-08-20T23:10:52+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas best practices",
+    "first_used_date": "2025-08-21T17:57:55+00:00",
+    "last_used_date": "2025-08-21T17:57:55+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os how to",
+    "first_used_date": "2025-08-21T17:57:55+00:00",
+    "last_used_date": "2025-08-21T17:57:55+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation best practices",
+    "first_used_date": "2025-08-21T17:57:55+00:00",
+    "last_used_date": "2025-08-21T17:57:55+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 2",
+    "first_used_date": "2025-08-21T17:57:55+00:00",
+    "last_used_date": "2025-08-21T17:57:55+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python best practices",
+    "first_used_date": "2025-08-21T17:57:55+00:00",
+    "last_used_date": "2025-08-21T17:57:55+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas best practices 1",
+    "first_used_date": "2025-08-21T17:57:55+00:00",
+    "last_used_date": "2025-08-21T17:57:55+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 2025 guide",
+    "first_used_date": "2025-08-22T13:13:51+00:00",
+    "last_used_date": "2025-08-22T13:13:51+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os best practices",
+    "first_used_date": "2025-08-22T13:13:51+00:00",
+    "last_used_date": "2025-08-22T13:13:51+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 2025 guide",
+    "first_used_date": "2025-08-22T13:13:51+00:00",
+    "last_used_date": "2025-08-22T13:13:51+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 3",
+    "first_used_date": "2025-08-22T13:13:51+00:00",
+    "last_used_date": "2025-08-22T13:13:51+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 2025 guide",
+    "first_used_date": "2025-08-22T13:13:51+00:00",
+    "last_used_date": "2025-08-22T13:13:51+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 2025 guide 1",
+    "first_used_date": "2025-08-22T13:13:51+00:00",
+    "last_used_date": "2025-08-22T13:13:51+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 1",
+    "first_used_date": "2025-08-22T18:16:31+00:00",
+    "last_used_date": "2025-08-22T18:16:31+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 2025 guide",
+    "first_used_date": "2025-08-22T18:16:31+00:00",
+    "last_used_date": "2025-08-22T18:16:31+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 1",
+    "first_used_date": "2025-08-22T18:16:31+00:00",
+    "last_used_date": "2025-08-22T18:16:31+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 4",
+    "first_used_date": "2025-08-22T18:16:31+00:00",
+    "last_used_date": "2025-08-22T18:16:31+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 1",
+    "first_used_date": "2025-08-22T18:16:31+00:00",
+    "last_used_date": "2025-08-22T18:16:31+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 1 1",
+    "first_used_date": "2025-08-22T18:17:01+00:00",
+    "last_used_date": "2025-08-22T18:17:01+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 2025 guide 1",
+    "first_used_date": "2025-08-22T18:19:36+00:00",
+    "last_used_date": "2025-08-22T18:19:36+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 1 1",
+    "first_used_date": "2025-08-22T18:22:22+00:00",
+    "last_used_date": "2025-08-22T18:22:22+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 4 1",
+    "first_used_date": "2025-08-22T18:25:47+00:00",
+    "last_used_date": "2025-08-22T18:25:47+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 1 1",
+    "first_used_date": "2025-08-22T18:30:52+00:00",
+    "last_used_date": "2025-08-22T18:30:52+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 2",
+    "first_used_date": "2025-08-23T16:40:08+00:00",
+    "last_used_date": "2025-08-23T16:40:08+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 1",
+    "first_used_date": "2025-08-23T16:40:08+00:00",
+    "last_used_date": "2025-08-23T16:40:08+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 2",
+    "first_used_date": "2025-08-23T16:40:08+00:00",
+    "last_used_date": "2025-08-23T16:40:08+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 5",
+    "first_used_date": "2025-08-23T16:40:08+00:00",
+    "last_used_date": "2025-08-23T16:40:08+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 2",
+    "first_used_date": "2025-08-23T16:40:08+00:00",
+    "last_used_date": "2025-08-23T16:40:08+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 2 1",
+    "first_used_date": "2025-08-23T16:40:08+00:00",
+    "last_used_date": "2025-08-23T16:40:08+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 3",
+    "first_used_date": "2025-08-23T16:57:49+00:00",
+    "last_used_date": "2025-08-23T16:57:49+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 2",
+    "first_used_date": "2025-08-23T16:57:49+00:00",
+    "last_used_date": "2025-08-23T16:57:49+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 3",
+    "first_used_date": "2025-08-23T16:57:49+00:00",
+    "last_used_date": "2025-08-23T16:57:49+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 6",
+    "first_used_date": "2025-08-23T16:57:49+00:00",
+    "last_used_date": "2025-08-23T16:57:49+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 3",
+    "first_used_date": "2025-08-23T16:57:49+00:00",
+    "last_used_date": "2025-08-23T16:57:49+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 3 1",
+    "first_used_date": "2025-08-23T16:57:49+00:00",
+    "last_used_date": "2025-08-23T16:57:49+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 4",
+    "first_used_date": "2025-08-24T10:59:11+00:00",
+    "last_used_date": "2025-08-24T10:59:11+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 3",
+    "first_used_date": "2025-08-24T10:59:11+00:00",
+    "last_used_date": "2025-08-24T10:59:11+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 4",
+    "first_used_date": "2025-08-24T10:59:12+00:00",
+    "last_used_date": "2025-08-24T10:59:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 7",
+    "first_used_date": "2025-08-24T10:59:12+00:00",
+    "last_used_date": "2025-08-24T10:59:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 4",
+    "first_used_date": "2025-08-24T10:59:12+00:00",
+    "last_used_date": "2025-08-24T10:59:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 4 1",
+    "first_used_date": "2025-08-24T10:59:12+00:00",
+    "last_used_date": "2025-08-24T10:59:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 5",
+    "first_used_date": "2025-08-24T11:51:31+00:00",
+    "last_used_date": "2025-08-24T11:51:31+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 4",
+    "first_used_date": "2025-08-24T11:51:32+00:00",
+    "last_used_date": "2025-08-24T11:51:32+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 5",
+    "first_used_date": "2025-08-24T11:51:32+00:00",
+    "last_used_date": "2025-08-24T11:51:32+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 8",
+    "first_used_date": "2025-08-24T11:51:32+00:00",
+    "last_used_date": "2025-08-24T11:51:32+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 5",
+    "first_used_date": "2025-08-24T11:51:32+00:00",
+    "last_used_date": "2025-08-24T11:51:32+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 5 1",
+    "first_used_date": "2025-08-24T11:51:32+00:00",
+    "last_used_date": "2025-08-24T11:51:32+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 6",
+    "first_used_date": "2025-08-24T12:07:04+00:00",
+    "last_used_date": "2025-08-24T12:07:04+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 5",
+    "first_used_date": "2025-08-24T12:07:04+00:00",
+    "last_used_date": "2025-08-24T12:07:04+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 6",
+    "first_used_date": "2025-08-24T12:07:04+00:00",
+    "last_used_date": "2025-08-24T12:07:04+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 9",
+    "first_used_date": "2025-08-24T12:07:04+00:00",
+    "last_used_date": "2025-08-24T12:07:04+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 6",
+    "first_used_date": "2025-08-24T12:07:04+00:00",
+    "last_used_date": "2025-08-24T12:07:04+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 6 1",
+    "first_used_date": "2025-08-24T12:07:04+00:00",
+    "last_used_date": "2025-08-24T12:07:04+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 7",
+    "first_used_date": "2025-08-24T12:12:12+00:00",
+    "last_used_date": "2025-08-24T12:12:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 6",
+    "first_used_date": "2025-08-24T12:12:12+00:00",
+    "last_used_date": "2025-08-24T12:12:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 7",
+    "first_used_date": "2025-08-24T12:12:12+00:00",
+    "last_used_date": "2025-08-24T12:12:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 10",
+    "first_used_date": "2025-08-24T12:12:12+00:00",
+    "last_used_date": "2025-08-24T12:12:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 7",
+    "first_used_date": "2025-08-24T12:12:12+00:00",
+    "last_used_date": "2025-08-24T12:12:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 7 1",
+    "first_used_date": "2025-08-24T12:12:12+00:00",
+    "last_used_date": "2025-08-24T12:12:12+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 8",
+    "first_used_date": "2025-08-24T12:20:45+00:00",
+    "last_used_date": "2025-08-24T12:20:45+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 7",
+    "first_used_date": "2025-08-24T12:20:45+00:00",
+    "last_used_date": "2025-08-24T12:20:45+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 8",
+    "first_used_date": "2025-08-24T12:20:45+00:00",
+    "last_used_date": "2025-08-24T12:20:45+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 11",
+    "first_used_date": "2025-08-24T12:20:45+00:00",
+    "last_used_date": "2025-08-24T12:20:45+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 8",
+    "first_used_date": "2025-08-24T12:20:45+00:00",
+    "last_used_date": "2025-08-24T12:20:45+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 8 1",
+    "first_used_date": "2025-08-24T12:20:45+00:00",
+    "last_used_date": "2025-08-24T12:20:45+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 9",
+    "first_used_date": "2025-08-24T12:41:23+00:00",
+    "last_used_date": "2025-08-24T12:41:23+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 8",
+    "first_used_date": "2025-08-24T12:41:23+00:00",
+    "last_used_date": "2025-08-24T12:41:23+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 9",
+    "first_used_date": "2025-08-24T12:41:23+00:00",
+    "last_used_date": "2025-08-24T12:41:23+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 12",
+    "first_used_date": "2025-08-24T12:41:23+00:00",
+    "last_used_date": "2025-08-24T12:41:23+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 9",
+    "first_used_date": "2025-08-24T12:41:23+00:00",
+    "last_used_date": "2025-08-24T12:41:23+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 9 1",
+    "first_used_date": "2025-08-24T12:41:23+00:00",
+    "last_used_date": "2025-08-24T12:41:23+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 8 1",
+    "first_used_date": "2025-08-24T12:43:47+00:00",
+    "last_used_date": "2025-08-24T12:43:47+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 10",
+    "first_used_date": "2025-08-24T12:59:09+00:00",
+    "last_used_date": "2025-08-24T12:59:09+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 9",
+    "first_used_date": "2025-08-24T12:59:09+00:00",
+    "last_used_date": "2025-08-24T12:59:09+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 10",
+    "first_used_date": "2025-08-24T12:59:09+00:00",
+    "last_used_date": "2025-08-24T12:59:09+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 13",
+    "first_used_date": "2025-08-24T12:59:09+00:00",
+    "last_used_date": "2025-08-24T12:59:09+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 10",
+    "first_used_date": "2025-08-24T12:59:09+00:00",
+    "last_used_date": "2025-08-24T12:59:09+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 10 1",
+    "first_used_date": "2025-08-24T12:59:09+00:00",
+    "last_used_date": "2025-08-24T12:59:09+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 9 1",
+    "first_used_date": "2025-08-24T13:00:28+00:00",
+    "last_used_date": "2025-08-24T13:00:28+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 10 1",
+    "first_used_date": "2025-08-24T13:02:43+00:00",
+    "last_used_date": "2025-08-24T13:02:43+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 13 1",
+    "first_used_date": "2025-08-24T13:05:05+00:00",
+    "last_used_date": "2025-08-24T13:05:05+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 10 1",
+    "first_used_date": "2025-08-24T13:07:46+00:00",
+    "last_used_date": "2025-08-24T13:07:46+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 11",
+    "first_used_date": "2025-08-24T13:53:33+00:00",
+    "last_used_date": "2025-08-24T13:53:33+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 10",
+    "first_used_date": "2025-08-24T13:53:33+00:00",
+    "last_used_date": "2025-08-24T13:53:33+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 11",
+    "first_used_date": "2025-08-24T13:53:33+00:00",
+    "last_used_date": "2025-08-24T13:53:33+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 14",
+    "first_used_date": "2025-08-24T13:53:33+00:00",
+    "last_used_date": "2025-08-24T13:53:33+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 11",
+    "first_used_date": "2025-08-24T13:53:33+00:00",
+    "last_used_date": "2025-08-24T13:53:33+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 11 1",
+    "first_used_date": "2025-08-24T13:53:33+00:00",
+    "last_used_date": "2025-08-24T13:53:33+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 12",
+    "first_used_date": "2025-08-24T14:05:18+00:00",
+    "last_used_date": "2025-08-24T14:05:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 11",
+    "first_used_date": "2025-08-24T14:05:18+00:00",
+    "last_used_date": "2025-08-24T14:05:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 12",
+    "first_used_date": "2025-08-24T14:05:18+00:00",
+    "last_used_date": "2025-08-24T14:05:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 15",
+    "first_used_date": "2025-08-24T14:05:18+00:00",
+    "last_used_date": "2025-08-24T14:05:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 12",
+    "first_used_date": "2025-08-24T14:05:18+00:00",
+    "last_used_date": "2025-08-24T14:05:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 12 1",
+    "first_used_date": "2025-08-24T14:05:18+00:00",
+    "last_used_date": "2025-08-24T14:05:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 13",
+    "first_used_date": "2025-08-24T14:35:18+00:00",
+    "last_used_date": "2025-08-24T14:35:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 12",
+    "first_used_date": "2025-08-24T14:35:18+00:00",
+    "last_used_date": "2025-08-24T14:35:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 13",
+    "first_used_date": "2025-08-24T14:35:18+00:00",
+    "last_used_date": "2025-08-24T14:35:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 16",
+    "first_used_date": "2025-08-24T14:35:18+00:00",
+    "last_used_date": "2025-08-24T14:35:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 13",
+    "first_used_date": "2025-08-24T14:35:18+00:00",
+    "last_used_date": "2025-08-24T14:35:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 13 1",
+    "first_used_date": "2025-08-24T14:35:18+00:00",
+    "last_used_date": "2025-08-24T14:35:18+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 14",
+    "first_used_date": "2025-08-24T15:04:37+00:00",
+    "last_used_date": "2025-08-24T15:04:37+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "automating file organization with shutil and os 13",
+    "first_used_date": "2025-08-24T15:04:37+00:00",
+    "last_used_date": "2025-08-24T15:04:37+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "automating-file-organization-with-shutil-and-os"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "rag in production indexing, caching, and evaluation 14",
+    "first_used_date": "2025-08-24T15:04:37+00:00",
+    "last_used_date": "2025-08-24T15:04:37+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "rag-in-production-indexing-caching-and-evaluation"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "from csvs to lakehouse duckdb + dbt in action 17",
+    "first_used_date": "2025-08-24T15:04:37+00:00",
+    "last_used_date": "2025-08-24T15:04:37+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "from-csvs-to-lakehouse-duckdb-plus-dbt-in-action"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "understanding linear regression in python 14",
+    "first_used_date": "2025-08-24T15:04:37+00:00",
+    "last_used_date": "2025-08-24T15:04:37+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "understanding-linear-regression-in-python"
+    ],
+    "niches": [],
+    "titles": []
+  },
+  {
+    "phrase": "introduction to data cleaning with pandas 14 1",
+    "first_used_date": "2025-08-24T15:05:07+00:00",
+    "last_used_date": "2025-08-24T15:05:07+00:00",
+    "use_count": 1,
+    "associated_slugs": [
+      "introduction-to-data-cleaning-with-pandas"
+    ],
+    "niches": [],
+    "titles": []
+  }
+]

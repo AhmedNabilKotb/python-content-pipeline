@@ -1,0 +1,107 @@
+{
+  "Web Development": {
+    "libraries": ["FastAPI", "Django", "Flask", "SQLAlchemy", "Pydantic", "Starlette", "httpx", "Uvicorn", "Redis"],
+    "angles": ["secure auth", "performance/caching", "background tasks", "testing & CI"],
+    "pitfalls": ["blocking I/O in async paths", "CSRF/CORS misconfig", "leaking secrets in settings"]
+  },
+  "Data Science and Analytics": {
+    "libraries": ["Pandas", "Polars", "NumPy", "SciPy", "Plotly", "Matplotlib", "Seaborn", "DuckDB"],
+    "angles": ["EDA flow", "profiling & performance", "validation & reproducibility"],
+    "pitfalls": ["silent dtype upcasts", "chained indexing", "leaky train/test splits"]
+  },
+  "Machine Learning and AI": {
+    "libraries": ["scikit-learn", "PyTorch", "TensorFlow", "XGBoost", "LightGBM", "Transformers"],
+    "angles": ["feature pipelines", "metrics & validation", "serving & latency"],
+    "pitfalls": ["data leakage", "class imbalance", "mismatch train vs serve features"]
+  },
+  "Automation and Scripting": {
+    "libraries": ["Click", "Typer", "Rich", "APScheduler", "requests", "pathlib", "subprocess"],
+    "angles": ["idempotent scripts", "log/err handling", "packaging"],
+    "pitfalls": ["fragile paths", "hardcoded creds", "lack of retries/backoff"]
+  },
+  "Cybersecurity and Ethical Hacking": {
+    "libraries": ["Scapy", "cryptography", "paramiko", "nmap", "yara", "Volatility"],
+    "angles": ["defensive examples", "safe labs", "logging evidence"],
+    "pitfalls": ["illegal targets", "unsafe payloads", "credential exposure"]
+  },
+  "Python for Finance": {
+    "libraries": ["yfinance", "pandas", "statsmodels", "scikit-learn", "QuantLib", "TA-Lib", "mplfinance"],
+    "angles": ["risk/returns", "backtesting hygiene", "data caveats"],
+    "pitfalls": ["look-ahead bias", "survivorship bias", "unstable APIs"]
+  },
+  "Educational Python": {
+    "libraries": ["dataclasses", "typing", "itertools", "functools", "collections", "asyncio"],
+    "angles": ["mental models", "tiny runnable demos", "common confusions"],
+    "pitfalls": ["old idioms", "magic without explanation"]
+  },
+  "Web Scraping and Data Extraction": {
+    "libraries": ["BeautifulSoup", "Scrapy", "Playwright", "Selenium", "httpx", "lxml", "tldextract"],
+    "angles": ["polite crawling", "selecting robust locators", "storage schema"],
+    "pitfalls": ["ToS violations", "fragile selectors", "blocking without backoff"]
+  },
+  "Python Tips": {
+    "libraries": ["typing", "functools", "itertools", "contextlib", "pathlib", "rich"],
+    "angles": ["small wins", "before/after refactors", "performance notes"],
+    "pitfalls": ["over-cleverness", "premature optimization"]
+  },
+  "Scientific & Numerical Computing": {
+    "libraries": ["NumPy", "SciPy", "Numba", "Cython", "JAX", "SymPy"],
+    "angles": ["vectorization", "precision/stability", "benchmarking"],
+    "pitfalls": ["broadcasting surprises", "copy vs view", "float tolerances"]
+  },
+  "DevOps, Cloud & Infrastructure": {
+    "libraries": ["boto3", "google-cloud-*", "azure-sdk-for-python", "docker", "Pulumi", "Ansible"],
+    "angles": ["infra as code", "secrets & config", "observability"],
+    "pitfalls": ["mutable snowflake servers", "no rollbacks", "unbounded costs"]
+  },
+  "Data Engineering & Pipelines": {
+    "libraries": ["Airflow", "Prefect", "dbt", "Kafka (confluent-kafka)", "PySpark", "Great Expectations"],
+    "angles": ["data contracts", "backfills", "SLAs/alerts"],
+    "pitfalls": ["implicit schemas", "silent data drift", "one big DAG anti-pattern"]
+  },
+  "Desktop GUI & Apps": {
+    "libraries": ["PySide6", "PyQt5/6", "Tkinter", "Kivy", "DearPyGui"],
+    "angles": ["event loops", "UX polish", "packaging & updates"],
+    "pitfalls": ["threading the UI", "blocking calls", "platform quirks"]
+  },
+  "IoT, Embedded & Hardware": {
+    "libraries": ["RPi.GPIO", "gpiozero", "pyserial", "CircuitPython", "MicroPython"],
+    "angles": ["debouncing & timing", "power & reliability", "field logging"],
+    "pitfalls": ["floating inputs", "busy waits", "no watchdogs"]
+  },
+  "Testing, Quality & Types": {
+    "libraries": ["pytest", "hypothesis", "mypy", "pydantic", "ruff", "coverage.py"],
+    "angles": ["property tests", "type-driven design", "CI gates"],
+    "pitfalls": ["over-mocking", "brittle tests", "ignoring flaky signals"]
+  },
+  "MLOps & Production AI": {
+    "libraries": ["MLflow", "BentoML", "Ray", "Triton Inference Server", "Weights & Biases", "wandb", "FastAPI"],
+    "angles": ["feature stores", "drift monitoring", "rollouts & canaries"],
+    "pitfalls": ["train/serve skew", "opaque pipelines", "no lineage"]
+  },
+  "Geospatial & GIS": {
+    "libraries": ["GeoPandas", "Shapely", "Fiona", "rasterio", "pyproj", "Folium"],
+    "angles": ["CRS sanity", "vector vs raster", "tiling/perf"],
+    "pitfalls": ["CRS mismatches", "gigantic geometries", "memory blowups"]
+  },
+  "Game Development with Python": {
+    "libraries": ["Pygame", "Arcade", "Panda3D", "Pyglet"],
+    "angles": ["game loop", "asset pipeline", "input latency"],
+    "pitfalls": ["delta-time bugs", "physics tunneling", "blocking I/O"]
+  },
+  "APIs & Integrations": {
+    "libraries": ["requests", "httpx", "FastAPI", "oauthlib", "pydantic"],
+    "angles": ["auth flows", "idempotency", "retries/backoff"],
+    "pitfalls": ["retry storms", "time-skew with JWTs", "undocumented changes"]
+  },
+  "Data Visualization & Storytelling": {
+    "libraries": ["Matplotlib", "Seaborn", "Plotly", "Altair", "Bokeh"],
+    "angles": ["chart choice", "annotation & narrative", "color & accessibility"],
+    "pitfalls": ["lying axes", "chart junk", "illegible labels"]
+  },
+  "Concurrency & Async": {
+    "libraries": ["asyncio", "anyio", "trio", "aiohttp", "httpx", "uvloop"],
+    "angles": ["structured concurrency", "timeouts & cancellation", "backpressure & rate limiting"],
+    "pitfalls": ["blocking calls in the event loop", "deadlocks", "unbounded parallelism"]
+  }
+}

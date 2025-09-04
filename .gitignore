@@ -1,0 +1,5 @@
+# Environment variables
+.env
+
+# Google Cloud credentials
+config/google-service-account-key.json

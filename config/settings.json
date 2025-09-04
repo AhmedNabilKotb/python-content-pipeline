@@ -1,0 +1,311 @@
+{
+  "general": {
+    "site_name": "PythonProHub",
+    "site_description": "A site about Python programming and related technologies."
+  },
+  "site": {
+    "base_url": "https://pythonprohub.com"
+  },
+  "publisher": {
+    "name": "PythonProHub",
+    "logo_url": "https://pythonprohub.com/wp-content/uploads/logo.png"
+  },
+  "images": {
+    "default_article": "https://pythonprohub.com/wp-content/uploads/default-python.png"
+  },
+  "api_keys": {
+    "openai": "${OPENAI_API_KEY}",
+    "openai_base_url": "${OPENAI_BASE_URL:}",
+    "sendgrid": null,
+    "brevo": "${BREVO_API_KEY}"
+  },
+  "models": {
+    "heavy": "gpt-4o",
+    "light": "gpt-4o-mini"
+  },
+  "wordpress": {
+    "base_url": "https://pythonprohub.com",
+    "api_base_url": "https://pythonprohub.com/wp-json",
+    "username": "ahmed",
+    "application_password": "${WP_APP_PASSWORD}",
+    "default_category": "Python",
+    "post_status": "publish",
+    "request_timeout": 30,
+    "default_author_id": 1,
+    "auto_create_taxonomies": true,
+    "excerpt_max_len": 180,
+    "verify_ssl": true,
+    "overwrite_if_exists": false,
+    "permalink_format": "/{slug}"
+  },
+  "content_strategy": {
+    "articles_per_day": 5,
+    "min_article_word_count": 1100,
+    "pillar_posts": {
+      "enabled": true,
+      "weekly_quota": 1,
+      "word_count_target": [1800, 2200],
+      "min_content_words": 1600
+    }
+  },
+  "workflow": {
+    "max_publish_retries": 3,
+    "retry_delay_base_seconds": 5,
+    "inter_article_delay_range_seconds": [30, 60],
+    "cpu_load_threshold": 8.0,
+    "cpu_cooldown_period_seconds": 30,
+    "min_topic_backlog_threshold": 10,
+    "publish_window": null
+  },
+  "adsense": {
+    "max_ads_per_article": 3,
+    "placement_markers": [
+      "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7347306580589256\" crossorigin=\"anonymous\"></script>\n<ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-7347306580589256\" data-ad-slot=\"0721923460\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
+      "",
+      ""
+    ]
+  },
+  "newsletter": {
+    "enabled": true,
+    "sender_email": "YOUR_EMAIL@example.com",
+    "recipient_email": "YOUR_EMAIL@example.com",
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 465,
+    "email_username": "YOUR_EMAIL_USER",
+    "email_password": "YOUR_EMAIL_PASS",
+    "min_articles_for_newsletter": 1
+  },
+  "error_notifications": {
+    "provider": "brevo",
+    "sender_name": "Python Pro Hub Automation",
+    "sender_email": "YOUR_EMAIL@example.com",
+    "recipient_email": "YOUR_EMAIL@example.com",
+    "api_endpoint": "https://api.brevo.com/v3/smtp/email",
+    "timeout": 10
+  },
+  "internal_linking": {
+    "auto_internal_links": true,
+    "max_links": 3,
+    "max_outbound_links": 2,
+    "link_section_header": "\n\n---\n\n### 🔗 Related Articles\n",
+    "min_articles_for_linking": 2,
+    "min_paragraph_words_for_outbound": 12,
+    "avoid_outbound_domains": [],
+    "link_future_posts": true,
+    "strip_query_tracking": true,
+    "inline_placeholder_regex": "(?mi)^\\s*_?see related guides in this series\\._?\\s*$|^\\s*\\[\\[RELATED\\]\\]\\s*$",
+    "inline_intro_label": "**See also:**",
+    "inline_links_separator": " · ",
+    "inline_links_count": 2,
+    "marker_start": "<!-- RELATED:START -->",
+    "marker_end": "<!-- RELATED:END -->",
+    "on_existing": "replace",
+    "use_html_for_outbound": true,
+    "outbound_rel_default": "noopener noreferrer",
+    "outbound_target_blank": true,
+    "outbound_group_order": [
+      "official_docs",
+      "official",
+      "library",
+      "guide",
+      "course",
+      "tutorial",
+      "platform",
+      "book",
+      "interactive",
+      "community",
+      "blog",
+      "newsletter",
+      "fallback"
+    ],
+    "linker_group_by_type": false
+  },
+  "cta_injection": {
+    "min_word_count": 800
+  },
+  "challenge_injection": {
+    "min_word_count": 1000
+  },
+  "live_demos": {
+    "default_platform": "replit",
+    "max_embeds": 3,
+    "position": "after",
+    "template": "\n[🔗 Try this code on {platform}]({url})\n",
+    "platform_urls": {
+      "replit": "https://replit.com/new/python3?code={code}",
+      "colab": "https://colab.research.google.com/#code={code}",
+      "jupyter": "https://jupyter.org/try?code={code}",
+      "vscode": "vscode://ms-python.python/playground?code={code}"
+    }
+  },
+  "paths": {
+    "prompts_dir": "prompts",
+    "articles_output_dir": "output",
+    "article_filename": "article.md",
+    "metadata_filename": "metadata.json",
+    "structure_variants_path": "config/structure_variants.json",
+    "style_knobs_path": "config/style_knobs.json",
+    "system_prompt_path": "prompts/system.md",
+    "article_base_path": "prompts/article_base.md",
+    "niche_outbound_links_path": "config/niche_outbound_links.json"
+  },
+  "article_generation": {
+    "model": "gpt-4o",
+    "temperature": 0.7,
+    "max_tokens": 1300,
+    "word_count_target": [1300, 1600],
+    "tags_enabled": true,
+    "slug_format": "auto",
+    "use_markdown": true,
+    "summary_length": 155,
+    "alt_text_style": "descriptive"
+  },
+  "content_rotation": {
+    "rotation_days": 149,
+    "start_date": "2025-08-21"
+  },
+  "authors": {
+    "name": "PythonProHub Team",
+    "tags": ["Python", "Development", "Automation"]
+  },
+  "logging": {
+    "level": "INFO",
+    "path": "logs/run.log"
+  },
+  "yoast_compliance": {
+    "min_content_words": 1200,
+    "max_title_length": 60,
+    "min_title_length": 40,
+    "max_meta_length": 156,
+    "min_meta_length": 120,
+    "min_subheadings": 5,
+    "min_outbound_links": 2,
+    "min_internal_links": 2,
+    "min_keyphrase_density": 0.5,
+    "max_keyphrase_density": 2.5,
+    "flesch_reading_ease_good": 55,
+    "passive_voice_max_percent": 5,
+    "min_transition_word_percent": 35,
+    "max_long_sentence_percent": 20,
+    "max_paragraph_words": 160,
+    "max_consecutive_same_start": 0,
+    "target_seo_score": 60,
+    "target_readability_score": 55,
+    "max_warnings": 3,
+    "max_enhancement_iterations": 6,
+    "early_stop_patience": 4,
+    "early_stop_min_iters": 2,
+    "good_enough_seo": 80,
+    "good_enough_read": 50,
+    "good_enough_max_warnings": 5,
+    "guardrail_allowed_seo_drop": 5,
+
+    "readability_mode": "weighted",
+    "adaptive_readability": true,
+    "readability_weights": {
+      "transitions": 0.35,
+      "passive": 0.30,
+      "long_sentence": 0.25,
+      "paragraph": 0.10
+    }
+  },
+  "finalizer": {
+    "enabled": true,
+    "run_if_within_points": 5,
+    "only_when_close": true,
+    "allow_seo_regression_points": 0,
+    "allow_read_regression_points": 0
+  },
+  "prompt_templates": [
+    { "topic": "Data Science and Analytics", "template": "Use the shared prompt at prompts/article_base.md with structure variants from config/structure_variants.json and style knobs from config/style_knobs.json. Emphasize pandas/NumPy workflows, EDA, feature engineering, and pragmatic examples." },
+    { "topic": "Machine Learning and AI", "template": "Use the shared prompt at prompts/article_base.md. Cover scikit-learn and deep learning (PyTorch/TensorFlow), metrics, leakage pitfalls, and deployment notes." },
+    { "topic": "Web Development", "template": "Use the shared prompt at prompts/article_base.md. Focus on FastAPI/Flask/Django, routing, auth, validation (pydantic), async patterns, and secure config." },
+    { "topic": "Automation and Scripting", "template": "Use the shared prompt at prompts/article_base.md. Show pathlib/subprocess/Typer workflows, cron/systemd tips, retries, and error handling." },
+    { "topic": "Web Scraping and Data Extraction", "template": "Use the shared prompt at prompts/article_base.md. Stress ethics, robots.txt, rate limits, rotating headers/proxies; BeautifulSoup/httpx/Scrapy." },
+    { "topic": "Cybersecurity and Ethical Hacking", "template": "Use the shared prompt at prompts/article_base.md. Emphasize legal/ethical bounds, secure coding, threat modeling, and defensive patterns." },
+    { "topic": "Python for Finance", "template": "Use the shared prompt at prompts/article_base.md. Focus on vectorization, risk metrics, backtesting caveats, and regulatory awareness (no investment advice)." },
+    { "topic": "Educational Python", "template": "Use the shared prompt at prompts/article_base.md. Keep examples simple, runnable, and focused on fundamentals with short exercises." },
+    { "topic": "Python Tips", "template": "Use the shared prompt at prompts/article_base.md. Provide concise idioms, anti-patterns, typing, stdlib gems, and performance micro-wins." },
+    { "topic": "Data Engineering & Pipelines", "template": "Use the shared prompt at prompts/article_base.md. Batch/stream pipelines, Airflow/Prefect, data validation, partitioning, schema evolution." },
+    { "topic": "Databases & SQL", "template": "Use the shared prompt at prompts/article_base.md. SQLAlchemy, migrations, indexing, transactions, pooling, and query profiling." },
+    { "topic": "APIs & Integrations", "template": "Use the shared prompt at prompts/article_base.md. REST/GraphQL clients, pagination, retries/backoff, idempotency, and structured errors." },
+    { "topic": "Testing, Quality & Types", "template": "Use the shared prompt at prompts/article_base.md. Pytest fixtures/parametrize, property-based tests, coverage, doubles, and CI reliability." },
+    { "topic": "Performance & Optimization", "template": "Use the shared prompt at prompts/article_base.md. Profiling (cProfile, py-spy), algorithmic complexity, caching, and concurrency trade-offs." },
+    { "topic": "DevOps, Cloud & Infrastructure", "template": "Use the shared prompt at prompts/article_base.md. Packaging, versioning, GitHub Actions, secrets, containers, and release automation." },
+    { "topic": "Cloud & Serverless", "template": "Use the shared prompt at prompts/article_base.md. AWS Lambda/GCP Cloud Run/Azure Functions, cold starts, IaC, and observability." },
+    { "topic": "Scientific & Numerical Computing", "template": "Use the shared prompt at prompts/article_base.md. NumPy/SciPy, vectorization, numerical stability, and reproducible environments." },
+    { "topic": "Data Visualization & Storytelling", "template": "Use the shared prompt at prompts/article_base.md. Matplotlib/Plotly/Altair, chart selection, legend/axes best practices, and small dashboards." },
+    { "topic": "Natural Language Processing", "template": "Use the shared prompt at prompts/article_base.md. Tokenization, embeddings, classic pipelines vs. transformers, evaluation, and prompt safety." },
+    { "topic": "Time Series & Forecasting", "template": "Use the shared prompt at prompts/article_base.md. Resampling, stationarity checks, feature windows, ARIMA/Prophet/ML hybrids, leakage pitfalls." }
+  ],
+  "prompts": {
+    "spec_version": "2.1",
+    "enforce_json_only": true
+  },
+  "proxies": {
+    "http": null,
+    "https": null
+  },
+  "outbound_links_map": {
+    "general_python": ["https://docs.python.org/3/", "https://pypi.org/", "https://realpython.com/"],
+    "educational python": ["https://docs.python.org/3/tutorial/", "https://realpython.com/"],
+    "data science": ["https://pandas.pydata.org/docs/", "https://numpy.org/doc/", "https://scikit-learn.org/stable/documentation.html"],
+    "web development": ["https://fastapi.tiangolo.com/", "https://flask.palletsprojects.com/en/latest/", "https://docs.djangoproject.com/en/stable/"],
+    "machine learning": ["https://scikit-learn.org/stable/documentation.html", "https://pytorch.org/docs/stable/index.html", "https://www.tensorflow.org/learn"]
+  },
+  "article_cta_injector": {
+    "min_content_length_words": 800,
+    "style": "STANDARD",
+    "placement": "FOOTER",
+    "templates": {
+      "MINIMAL": "\n---\n💾 **Bookmark '{article_title}'** for later reference\n",
+      "STANDARD": "\n---\n\n<div class=\"bookmark-cta\">\n <h3>🔖 Save This Guide: {article_title}</h3>\n <p>Want to revisit this later? Bookmark it now or add to your reading list!</p>\n <ul>\n  <li><a href=\"#save-to-pocket\">Save to Pocket</a></li>\n  <li><a href=\"#add-to-notion\">Add to Notion</a></li>\n  <li><a href=\"#bookmark-browser\">Browser Bookmark</a></li>\n </ul>\n</div>\n",
+      "PREMIUM": "\n---\n\n<div class=\"premium-cta\">\n <div class=\"cta-header\">\n  <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n   <path d=\"M19 21L12 16L5 21V5C5 4.46957 5.21071 3.96086 5.58579 3.58579C5.96086 3.21071 6.46957 3 7 3H17C17.5304 3 18.0391 3.21071 18.4142 3.58579C18.7893 3.96086 19 4.46957 19 5V21Z\" fill=\"currentColor\"/>\n  </svg>\n  <h3>Save \"{article_title}\"</h3>\n </div>\n <p>This guide took 15+ hours to create. Bookmark it to:</p>\n <ul>\n  <li>Access the code samples anytime</li>\n  <li>Reference the cheatsheets</li>\n  <li>Support our work</li>\n </ul>\n <div class=\"cta-buttons\">\n  <button class=\"save-button\">💾 Save to Bookmarks</button>\n  <button class=\"share-button\">📤 Share with Team</button>\n </div>\n</div>\n"
+    },
+    "exclude_sections_keywords": []
+  },
+  "article_challenge_injector": {
+    "min_article_length_words": 1000,
+    "template": "## Your Challenge!\n\n💡 Ready to test your understanding? Implement a Python script that addresses a practical problem related to this topic. Share your solution in the comments!",
+    "difficulty_level": "INTERMEDIATE",
+    "position": "FOOTER",
+    "challenge_model": "gpt-4o-mini"
+  },
+  "structure_enforcer": {
+    "enabled": true,
+    "enforce_min_h2": 5,
+    "require_intro": true,
+    "require_conclusion": true,
+    "toc": false
+  },
+  "technical_enhancer": {
+    "enabled": true,
+    "examples": { "min": 2, "max": 4 },
+    "ensure_code_blocks": true,
+    "prefer_stdlib": true
+  },
+  "quality_gate": {
+  "enabled": true,
+  "content_type": "article",
+  "block_on_plagiarism": true,
+  "max_similarity_pct": 15,
+  "min_word_count": 1100,
+  "min_seo": 60,
+  "min_readability": 55,
+  "max_warnings": 3,
+  "allow_near_miss": true,
+  "near_miss_margin": 5.0
+  },
+  "google_indexing": {
+    "enabled": false,
+    "service_account_file": "/home/ahmednabilmohamed/config/google-service-account-key.json",
+    "property_url": "https://pythonprohub.com/"
+  },
+  "enhancement_prompts": {
+    "readability_global": "Improve clarity and flow. Keep meaning intact. DO NOT remove or add headings. Keep EXACT keyphrase '{KEYPHRASE}' density at {TARGET_DENSITY:.2f}%. Keep Flesch Reading Ease >= {FLESCH_MIN}. Keep sentences mostly <= 22 words. Return ONLY the improved Markdown.",
+    "length_expand": "Expand content to a total of {MIN_WORDS}-{MAX_WORDS} words. Preserve all existing headings and code blocks. Enrich with concrete, Python-focused examples. Keep EXACT keyphrase '{KEYPHRASE}' density at {TARGET_DENSITY:.2f}%. Avoid fluff. Return ONLY the full Markdown.",
+    "subheads_keyphrase": "Revise H2/H3 subheadings to be specific and to include the exact keyphrase '{KEYPHRASE}' in at least one H2. Do not change the article structure count. Return ONLY Markdown.",
+    "title_opt": "Suggest a concise SEO title (max {MAX_TITLE} chars, min {MIN_TITLE} chars) that includes the exact keyphrase '{KEYPHRASE}'. Return ONLY the title text.",
+    "meta_gen": "Write a meta description ({MIN_META}-{MAX_META} chars) that naturally includes '{KEYPHRASE}'. No quotes or emojis. Return ONLY the meta text."
+  }
+}

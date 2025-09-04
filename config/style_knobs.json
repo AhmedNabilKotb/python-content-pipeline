@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "defaults": {
+    "reading_level": "practitioner",
+    "tone": "mentor",
+    "code_density": "medium",
+    "complexity": "intermediate",
+    "length_goal": "medium",
+    "structure_mode": "auto",
+    "headings_case": "sentence",
+    "async_preference": "auto"
+  },
+  "allowed": {
+    "reading_level": ["general", "practitioner"],
+    "tone": ["neutral", "crisp", "mentor"],
+    "code_density": ["low", "medium", "high"],
+    "complexity": ["easy", "intermediate", "advanced"],
+    "length_goal": ["short", "medium", "long"],
+    "structure_mode": ["auto", "classic", "how_to", "deep_dive", "case_study", "faq", "cheatsheet"],
+    "headings_case": ["sentence", "title"],
+    "async_preference": ["auto", "prefer_sync", "prefer_async"]
+  },
+  "targets": {
+    "word_count_by_length_goal": {
+      "short": [700, 900],
+      "medium": [1100, 1400],
+      "long": [1800, 2200]
+    },
+    "code_blocks_per_1000_words": {
+      "low": [1, 2],
+      "medium": [3, 5],
+      "high": [6, 8]
+    },
+    "flesch_reading_ease_min_by_level": {
+      "general": 60,
+      "practitioner": 55
+    },
+    "sentence_length_max_by_level": {
+      "general": 20,
+      "practitioner": 22
+    },
+    "title_length_chars": {
+      "min": 40,
+      "max": 72,
+      "target_range": [40, 60]
+    },
+    "meta_description_length_chars": {
+      "min": 120,
+      "max": 156
+    },
+    "keyphrase_max_chars": 70
+  },
+  "guidance": {
+    "tone_rules": {
+      "neutral": { "contractions": false, "sentence_briefness": "medium", "directives": "minimal" },
+      "crisp": { "contractions": false, "sentence_briefness": "short", "directives": "concise" },
+      "mentor": { "contractions": true, "sentence_briefness": "short_to_medium", "directives": "actionable" }
+    },
+    "complexity_rules": {
+      "easy": { "assumed_background": "new_to_topic", "depth": "shallow", "math": "minimal" },
+      "intermediate": { "assumed_background": "working_practitioner", "depth": "practical_depth", "math": "light" },
+      "advanced": { "assumed_background": "expert", "depth": "deep_dive", "math": "moderate" }
+    },
+    "async_rules": {
+      "auto": "Prefer sync examples for simplicity unless concurrency, I/O latency, or web clients are central to the task.",
+      "prefer_sync": "Use synchronous patterns unless the topic explicitly requires async.",
+      "prefer_async": "Favor asyncio/httpx-async examples, note event loop boundaries, and avoid blocking calls."
+    },
+    "structure_hints_for_auto": {
+      "default_weight_order": ["how_to", "classic", "deep_dive", "cheatsheet", "faq", "case_study"],
+      "tie_breakers": ["user_intent", "complexity", "length_goal"]
+    },
+    "formatting": {
+      "top_level_section_marker": "##",
+      "headings_case": "sentence",
+      "code_language": "python",
+      "python_version_min": "3.10"
+    },
+    "preferred_libs": ["pathlib", "typing", "dataclasses", "pydantic", "asyncio", "httpx", "typer", "pytest", "rich"],
+    "code_style": {
+      "comments": "brief",
+      "safety_notes": "Add short 'Use with caution' notes for destructive or sensitive operations.",
+      "charts_placeholder": "(Optional: insert chart showing X vs Y)"
+    }
+  },
+  "validation": {
+    "forbidden_sections": ["CTAs", "Related articles", "Challenge"],
+    "require_json_keys": ["title", "keyphrase", "meta_description", "article_content"],
+    "article_content_must_start_with_h1": true,
+    "use_top_level_h2_only": true,
+    "meta_description_must_include_keyphrase": true
+  },
+  "presets": [
+    {
+      "id": "default",
+      "reading_level": "practitioner",
+      "tone": "mentor",
+      "code_density": "medium",
+      "complexity": "intermediate",
+      "length_goal": "medium",
+      "structure_mode": "auto"
+    },
+    {
+      "id": "how_to_short",
+      "reading_level": "practitioner",
+      "tone": "mentor",
+      "code_density": "high",
+      "complexity": "intermediate",
+      "length_goal": "short",
+      "structure_mode": "how_to"
+    },
+    {
+      "id": "deep_dive_long",
+      "reading_level": "practitioner",
+      "tone": "crisp",
+      "code_density": "medium",
+      "complexity": "advanced",
+      "length_goal": "long",
+      "structure_mode": "deep_dive"
+    },
+    {
+      "id": "classic_medium",
+      "reading_level": "general",
+      "tone": "neutral",
+      "code_density": "low",
+      "complexity": "easy",
+      "length_goal": "medium",
+      "structure_mode": "classic"
+    }
+  ]
+}
